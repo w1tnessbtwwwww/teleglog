@@ -1,3 +1,3 @@
 # Teleglog Library
 
-Когда-нибудь здесь будет исходный код библиотеки для Python, чтобы легко и быстро настроить логгирование через телеграм бота.
+Someday here will be the source code of the library to provide logging of your application in the telegram bot
