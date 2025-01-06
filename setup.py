@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='teleglog',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     install_requires=[
         'requests>=2.25.1',
@@ -17,7 +17,7 @@ setup(
     url='https://github.com/w1tnessbtwwwww/teleglog',
     classifiers=[
         'Programming Language :: Python :: 3.13',
-        'License :: OSI Approved :: Apache License 2.0',
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
