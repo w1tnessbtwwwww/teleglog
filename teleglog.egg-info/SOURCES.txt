@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+teleglog/__init__.py
+teleglog/teleglog.py
+teleglog.egg-info/PKG-INFO
+teleglog.egg-info/SOURCES.txt
+teleglog.egg-info/dependency_links.txt
+teleglog.egg-info/requires.txt
+teleglog.egg-info/top_level.txt

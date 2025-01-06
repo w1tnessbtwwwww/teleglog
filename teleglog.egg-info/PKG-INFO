@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: teleglog
+Version: 0.1.2
+Summary: Teleglog Library for make your telegram logging easier.
+Home-page: https://github.com/w1tnessbtwwwww/teleglog
+Author: w1tnessbtwwwww (Alexey Surovtsev)
+Author-email: work.w1tnessbtw@mail.ru
+Classifier: Programming Language :: Python :: 3.13
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests>=2.25.1
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: pyTelegramBotAPI>=4.26.0
+
+# Teleglog Library
+
+Someday here will be the source code of the library to provide logging of your application in the telegram bot
