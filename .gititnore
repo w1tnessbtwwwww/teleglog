@@ -1,4 +1,4 @@
-teleglog.egg-info/
-build/
-dist/
-.venv/
+/teleglog.egg-info
+/build
+/dist/
+/.venv
