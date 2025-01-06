@@ -11,7 +11,7 @@ setup(
     ],
     author='w1tnessbtwwwww (Alexey Surovtsev)',
     author_email='work.w1tnessbtw@mail.ru',
-    description='Teleglog Library for make your telegram logging easier.',
+    description='Teleglog Library for make your telegram logging easier and faster.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/w1tnessbtwwwww/teleglog',
